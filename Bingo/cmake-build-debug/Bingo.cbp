@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Bingo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bingo">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Bingo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bingo"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bingo/fast">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Bingo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bingo/fast"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Card.cpp">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Card.h">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Deck.cpp">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Deck.h">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Menu.cpp">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Menu.h">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/MenuOption.cpp">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/MenuOption.h">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/CardTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/CardTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/DeckTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/DeckTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/MenuOptionTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/MenuOptionTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/MenuTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/MenuTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/UserInterface.cpp">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/UserInterface.h">
+			<Option target="Test"/>
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/main.cpp">
+			<Option target="Bingo"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Bingo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

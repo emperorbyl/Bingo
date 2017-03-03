@@ -1,0 +1,4 @@
+C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/CMakeFiles/Bingo.dir
+C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emperorbyl/CLionProjects/Bingo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
